@@ -37,31 +37,17 @@ Welcome to my GitHub! I'm a passionate and experienced Full-Stack Developer with
   </a>
 </p>
 
-**🧠 Programming Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py" />
-  </a>
-</p>
-
-**🧪 Testing Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,selenium" />
-  </a>
-</p>
-
-**⚙️ DevOps & Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,webpack,postman,bash" />
-  </a>
-</p>
-
 **☁️ Cloud Platforms**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>
+
+**⚙️ DevOps & 🧪 Testing Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,webpack,postman,bash,jest,selenium" />
   </a>
 </p>
 
