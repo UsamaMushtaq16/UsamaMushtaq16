@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm a passionate and experienced Full-Stack Developer with
 ---
 
 ## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on **Apply Squad**, a job applying platform.
 - 🌱 I’m currently learning **AI agents development**.
 - 👯 I’m looking to collaborate on **automation apps**.
 - 🤔 I’m looking for help **refining architecture for AI-integrated systems**.
